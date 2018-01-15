@@ -52,8 +52,7 @@ class config():
         except Exception as e:
             pass
         
-#test = config()
-#test.append({"networks":{"network":"RGGCNN","password":"123456789"}})
+
 
 
 
